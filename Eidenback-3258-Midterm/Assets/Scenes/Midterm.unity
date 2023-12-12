@@ -14536,10 +14536,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 227456614612963869, guid: 998b771cf2aa1f04eb9b591ee7ba6897, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 24e833ddd6bfd504791079b1972d5707, type: 2}
     - target: {fileID: 1252792615783730128, guid: 998b771cf2aa1f04eb9b591ee7ba6897, type: 3}
       propertyPath: m_LocalPosition.y
       value: 10.01
       objectReference: {fileID: 0}
+    - target: {fileID: 1879749112995259107, guid: 998b771cf2aa1f04eb9b591ee7ba6897, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1396acfd804c83b46b5a5b72a9053d24, type: 2}
     - target: {fileID: 4262216309214630967, guid: 998b771cf2aa1f04eb9b591ee7ba6897, type: 3}
       propertyPath: m_Name
       value: Trap
@@ -14588,6 +14596,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7624974206076189565, guid: 998b771cf2aa1f04eb9b591ee7ba6897, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 24e833ddd6bfd504791079b1972d5707, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14601,6 +14613,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1650068702677853334, guid: 0982d9be2941a994186634f4ddec8ba5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 24e833ddd6bfd504791079b1972d5707, type: 2}
     - target: {fileID: 3151493121450964886, guid: 0982d9be2941a994186634f4ddec8ba5, type: 3}
       propertyPath: m_Name
       value: Door
@@ -14649,6 +14665,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4693535989812723985, guid: 0982d9be2941a994186634f4ddec8ba5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 24e833ddd6bfd504791079b1972d5707, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
